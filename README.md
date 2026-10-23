@@ -133,4 +133,4 @@ Please cite the paper when using AdaDCL in your research:
 
 This implementation builds on [InfoDCL](https://github.com/Qin-lab-code/InfoDCL). We thank its authors for making the code publicly available.
 
-The [MIT license](LICENSE) covers original AdaDCL contributions only. No upstream license was found in the inspected InfoDCL snapshot; redistribution permission for inherited code remains to be confirmed. Dataset terms are separate.
+The [MIT license](LICENSE) covers original AdaDCL contributions only. 
