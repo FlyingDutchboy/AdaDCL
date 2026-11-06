@@ -8,10 +8,6 @@ AdaDCL addresses semantic drift in sparse recommendation by learning structured 
 
 The resulting signals guide diffusion-based view generation. A joint training objective combines preference ranking, contrastive learning, reconstruction, and regularization.
 
-**Authors:** Renjie Tian, Minxi Yang, Feng Xie, Dahua Gao, and Zhenyuan Lin.
-
-**Affiliation:** School of Artificial Intelligence, Xidian University.
-
 ## Architecture
 
 AdaDCL contains three main components:
