@@ -90,9 +90,7 @@ If user/item pretrained embeddings are missing, generate them before training:
 python -X utf8 LightGCN.py --data office --cuda 0 --pretrain_epochs 100
 ```
 
-Replace `office` with the desired dataset. This helper writes `uEmbeds_pt.npy` and `iEmbeds_pt.npy`; regenerate auxiliary arrays after replacing them. Its outputs have not been verified against the historical paper embeddings.
 
-**Implementation note:** This snapshot does not read `valid.txt` and selects checkpoints using test Recall@20, whereas the paper describes validation-based selection. Full paper results have not been revalidated for this package.
 
 ## Implemented Models
 
